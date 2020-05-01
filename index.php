@@ -40,7 +40,7 @@
 
                                         <div class="card-body text-center">
                                             <h5 class="card-title">Digital Series</h5>
-                                            <a href="products.php" data-toggle="modal" data-target="#exampleModalCenter" class="btn btn-primary">Details</a>
+                                            <a href="products.php?active_is=6" class="btn btn-primary">Details</a>
                                         </div>
                                     </div>
 
