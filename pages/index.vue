@@ -1,13 +1,13 @@
 <template>
 
 </template>
-
 <script>
-import Logo from '~/components/Logo.vue'
+
 export default {
-  components: {
-    Logo
-  }
+  
+  head(){return {title: this.title}},
+  data(){return {title:'Supra Hi-tech Electro Equipments Pvt. Ltd'}},
+
 }
 </script>
 
